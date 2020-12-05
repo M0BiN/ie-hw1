@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdd66707.chunk.css",
+    "main.js": "/static/js/main.9b779b4a.chunk.js",
+    "main.js.map": "/static/js/main.9b779b4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f50cd520.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f50cd520.js.map",
+    "static/js/2.48ff4051.chunk.js": "/static/js/2.48ff4051.chunk.js",
+    "static/js/2.48ff4051.chunk.js.map": "/static/js/2.48ff4051.chunk.js.map",
+    "static/js/3.79bbd88e.chunk.js": "/static/js/3.79bbd88e.chunk.js",
+    "static/js/3.79bbd88e.chunk.js.map": "/static/js/3.79bbd88e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fdd66707.chunk.css.map": "/static/css/main.fdd66707.chunk.css.map",
+    "static/js/2.48ff4051.chunk.js.LICENSE.txt": "/static/js/2.48ff4051.chunk.js.LICENSE.txt",
+    "static/media/0tap.16c959ee.mp3": "/static/media/0tap.16c959ee.mp3",
+    "static/media/index.css": "/static/media/Yekan-modified.f717454d.ttf",
+    "static/media/hw1.5632b74c.jpg": "/static/media/hw1.5632b74c.jpg",
+    "static/media/hw4.397ed752.jpg": "/static/media/hw4.397ed752.jpg",
+    "static/media/hw6.064d961d.jpg": "/static/media/hw6.064d961d.jpg",
+    "static/media/hw7.7420171b.jpg": "/static/media/hw7.7420171b.jpg",
+    "static/media/melat.f959247d.svg": "/static/media/melat.f959247d.svg",
+    "static/media/meli.c642123b.png": "/static/media/meli.c642123b.png",
+    "static/media/mtrsnd.c5020409.mp3": "/static/media/mtrsnd.c5020409.mp3",
+    "static/media/tejarat.7f8b58e5.png": "/static/media/tejarat.7f8b58e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f50cd520.js",
+    "static/js/2.48ff4051.chunk.js",
+    "static/css/main.fdd66707.chunk.css",
+    "static/js/main.9b779b4a.chunk.js"
+  ]
+}
