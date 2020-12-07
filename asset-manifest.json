@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ie-hw1/static/css/main.339ce118.chunk.css",
-    "main.js": "/ie-hw1/static/js/main.3f5fdda0.chunk.js",
-    "main.js.map": "/ie-hw1/static/js/main.3f5fdda0.chunk.js.map",
-    "runtime-main.js": "/ie-hw1/static/js/runtime-main.3fc536cb.js",
-    "runtime-main.js.map": "/ie-hw1/static/js/runtime-main.3fc536cb.js.map",
-    "static/js/2.72896c92.chunk.js": "/ie-hw1/static/js/2.72896c92.chunk.js",
-    "static/js/2.72896c92.chunk.js.map": "/ie-hw1/static/js/2.72896c92.chunk.js.map",
-    "static/js/3.79bbd88e.chunk.js": "/ie-hw1/static/js/3.79bbd88e.chunk.js",
-    "static/js/3.79bbd88e.chunk.js.map": "/ie-hw1/static/js/3.79bbd88e.chunk.js.map",
+    "main.css": "/ie-hw1/static/css/main.2920a830.chunk.css",
+    "main.js": "/ie-hw1/static/js/main.c5288ff6.chunk.js",
+    "main.js.map": "/ie-hw1/static/js/main.c5288ff6.chunk.js.map",
+    "runtime-main.js": "/ie-hw1/static/js/runtime-main.135963e7.js",
+    "runtime-main.js.map": "/ie-hw1/static/js/runtime-main.135963e7.js.map",
+    "static/js/2.4e270d5d.chunk.js": "/ie-hw1/static/js/2.4e270d5d.chunk.js",
+    "static/js/2.4e270d5d.chunk.js.map": "/ie-hw1/static/js/2.4e270d5d.chunk.js.map",
+    "static/js/3.6f3fb8ec.chunk.js": "/ie-hw1/static/js/3.6f3fb8ec.chunk.js",
+    "static/js/3.6f3fb8ec.chunk.js.map": "/ie-hw1/static/js/3.6f3fb8ec.chunk.js.map",
     "index.html": "/ie-hw1/index.html",
-    "static/css/main.339ce118.chunk.css.map": "/ie-hw1/static/css/main.339ce118.chunk.css.map",
-    "static/js/2.72896c92.chunk.js.LICENSE.txt": "/ie-hw1/static/js/2.72896c92.chunk.js.LICENSE.txt",
+    "static/css/main.2920a830.chunk.css.map": "/ie-hw1/static/css/main.2920a830.chunk.css.map",
+    "static/js/2.4e270d5d.chunk.js.LICENSE.txt": "/ie-hw1/static/js/2.4e270d5d.chunk.js.LICENSE.txt",
     "static/media/0tap.16c959ee.mp3": "/ie-hw1/static/media/0tap.16c959ee.mp3",
     "static/media/index.css": "/ie-hw1/static/media/Yekan-modified.f717454d.ttf",
     "static/media/hw1.5632b74c.jpg": "/ie-hw1/static/media/hw1.5632b74c.jpg",
@@ -19,14 +19,14 @@
     "static/media/hw6.064d961d.jpg": "/ie-hw1/static/media/hw6.064d961d.jpg",
     "static/media/hw7.7420171b.jpg": "/ie-hw1/static/media/hw7.7420171b.jpg",
     "static/media/melat.f959247d.svg": "/ie-hw1/static/media/melat.f959247d.svg",
-    "static/media/meli.c642123b.png": "/ie-hw1/static/media/meli.c642123b.png",
+    "static/media/meli.db08e6e4.png": "/ie-hw1/static/media/meli.db08e6e4.png",
     "static/media/mtrsnd.c5020409.mp3": "/ie-hw1/static/media/mtrsnd.c5020409.mp3",
     "static/media/tejarat.7f8b58e5.png": "/ie-hw1/static/media/tejarat.7f8b58e5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fc536cb.js",
-    "static/js/2.72896c92.chunk.js",
-    "static/css/main.339ce118.chunk.css",
-    "static/js/main.3f5fdda0.chunk.js"
+    "static/js/runtime-main.135963e7.js",
+    "static/js/2.4e270d5d.chunk.js",
+    "static/css/main.2920a830.chunk.css",
+    "static/js/main.c5288ff6.chunk.js"
   ]
 }
